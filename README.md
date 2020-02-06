@@ -23,9 +23,10 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/
 ```
 
 ## Brew cask
-adobe-creative-cloud       google-chrome              shadow
-brooklyn                   intel-power-gadget         steam
-coconutbattery             logitech-options           visual-studio-code
-detexify                   mactex                     vmware-fusion
+adobe-creative-cloud       intel-power-gadget         steam
+brooklyn                   logitech-options           swish
+coconutbattery             mactex                     visual-studio-code
+detexify                   mathpix-snipping-tool      vmware-fusion
 docker                     minecraft                  xquartz
 geekbench                  miniconda
+google-chrome              shadow

@@ -1,17 +1,17 @@
-# MacBuild
+# macBuild
 
 ## Xcode Command Line Tool
 ```
 xcode-select --install
 ```
 
-## Brew
+## brew
 Website: https://brew.sh
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
-## OhMyZsh
+## ohMyZsh
 Website: https://ohmyz.sh
 ```
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
@@ -22,11 +22,12 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/plugins/zsh-syntax-highlighting
 ```
 
-## Brew cask
-adobe-creative-cloud       intel-power-gadget         steam
-brooklyn                   logitech-options           swish
-coconutbattery             mactex                     visual-studio-code
-detexify                   mathpix-snipping-tool      vmware-fusion
-docker                     minecraft                  xquartz
-geekbench                  miniconda
-google-chrome              shadow
+## brew cask
+adobe-creative-cloud       logitech-options           soundflower
+brooklyn                   mactex                     steam
+clashx                     mathpix-snipping-tool      swish
+coconutbattery             minecraft                  tikzit
+detexify                   notion                     visual-studio-code
+geekbench                  oracle-jdk                 vmware-fusion
+google-chrome              shadow                     xquartz
+intel-power-gadget         shadowsocksx-ng-r          miniconda
